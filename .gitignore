@@ -3,7 +3,6 @@
 *.docx
 *__pycache__
 *.png
-*.txt
 *.CSV
 *.venv
 *.zip
